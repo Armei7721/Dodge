@@ -111,6 +111,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d3c7ced5cc138e4580ca161b7e04fb6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  bulletPrefab: {fileID: 3064739391496864849}
+  bulletPrefab: {fileID: 5838831018799685066, guid: a3d9b3a87ccb54d4b94e05207bb372c7, type: 3}
   spawnRateMin: 0.5
   spawnRateMax: 3
