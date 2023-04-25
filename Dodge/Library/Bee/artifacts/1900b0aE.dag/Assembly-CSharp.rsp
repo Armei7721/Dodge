@@ -350,6 +350,7 @@
 "Assets/Script/Bullet.cs"
 "Assets/Script/BulletSpawner.cs"
 "Assets/Script/PlayerController.cs"
+"Assets/Script/Rotator.cs"
 -langversion:9.0
 
 /deterministic
