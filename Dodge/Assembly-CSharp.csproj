@@ -60,6 +60,7 @@
     <Compile Include="Assets\Script\Bullet.cs" />
     <Compile Include="Assets\Script\BulletSpawner.cs" />
     <Compile Include="Assets\Script\Rotator.cs" />
+    <Compile Include="Assets\Script\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
